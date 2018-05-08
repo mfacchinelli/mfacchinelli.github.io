@@ -27,11 +27,15 @@ Hi, and welcome to my online portfolio. The purpose of this GitHub repository is
 - *Thesis*: MICRO - Mars Interplanetary Mission and Cubesat Orbiter []()
 - *Notes*: Graduated *cum laude*. Semester abroad at *Georgia Tech*.
 
+---
+
 ### Work Experience :briefcase:
 
 - Internship at **ALTEC S.p.A.** (2017)
 Worked on the design of a ...
 - Various **Teaching/Student Assistant** positions at TU Delft
+
+---
 
 ### Awards :tada:
 
@@ -50,17 +54,18 @@ fprintf('I learned this language during my MSc and my internship!')
 ```
 - *C++*
 ```c++
+
 #include <cstdlib>
 #include <iostream>
 
 int main( )
 {
-   using namespace std;
+    using namespace std;
    
-   // How I learned C++
-   cout << "And this language, during my thesis!" << endl;
+    // How I learned C++
+    cout << "And this language, during my thesis!" << endl;
    
-   return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 ```
 - *Python*
@@ -77,13 +82,23 @@ Over the years, I have also picked up some other languages:
 <p> This one, I picked up in my free time! </p>
 ```
 - *AppleScript*
-- *MarkDown*
+```applescript
+
+```
 - *UNIX*
+```unix
+
+```
+- *MarkDown*
 
 ## Projects
 
 ### Master Thesis
 
+---
+
 ### Internship
+
+---
 
 ### Other
