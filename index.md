@@ -64,7 +64,7 @@ I learned \LaTeX\ during both my BSc and MSc.
 
 ```
 - *C++*
-```c++
+```cpp
 
 #include <cstdlib>
 #include <iostream>
@@ -102,10 +102,13 @@ Over the years, I have also picked up some other languages:
 
 # How I learned AppleScriptset response to display dialog "I was trying to make my Mac experience more seamless!" buttons {"Lazy", "Awesome"} default button "Awesome"
 
-
 ```
-- *UNIX*
+- *UNIX*: I have started using UNIX to run simulations on the faculty servers, and after that to run simulation with the [SPARTA](http://sparta.sandia.gov) software. I have also used it via MATLAB and C++ with the `system` and `std::system` commands. 
 ```unix
+
+# How I learned UNIX
+cd /Users/Michele/Desktop
+echo 'I started learning this language on my own, and for a few projects!' > how.txt
 
 ```
 - *MarkDown* :wink:
