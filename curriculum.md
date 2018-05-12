@@ -77,10 +77,12 @@ print("This one, on the other hand, I learned during my BSc!")
 Over the years, I have also picked up some other languages:
 
 - *HTML*
+<!--
 ~~~html
 <!-- How I learned HTML -->
 <p> This one, I picked up in my free time! </p>
 ~~~
+-->
 
 - *AppleScript*: I have used AppleScript to automate some of the tasks that I carry out frequently on my laptop. In particular, being a lazy engineer, I created some shortcuts to open and close all the apps I need for my thesis :blush: 
 ~~~applescript
