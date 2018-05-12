@@ -1,17 +1,8 @@
-# Welcome to Michele's Portfolio
+# Curriculum
 
-Hi, and welcome to my online portfolio. The purpose of this GitHub repository is to display some more details about myself, and some of the projects I have worked on.
+## Education :mortar_board:
 
-## Index
-
-- [Curriculum](https://mfacchinelli.github.io/#curriculum)
-- [Projects](https://mfacchinelli.github.io/#projects)
-
-## Curriculum
-
-### Education :mortar_board:
-
-#### Master of Science
+### Master of Science
 
 - *University*: Delft University of Technology
 - *Subject*: Aerospace Engineering :rocket:
@@ -19,7 +10,7 @@ Hi, and welcome to my online portfolio. The purpose of this GitHub repository is
 - *Period*: 2016 - present
 - *Thesis*: **Aerobraking Guidance, Navigation and Control**
 
-#### Bachelor of Science
+### Bachelor of Science
 
 - *University*: Delft University of Technology
 - *Subject*: Aerospace Engineering :airplane:
@@ -27,23 +18,19 @@ Hi, and welcome to my online portfolio. The purpose of this GitHub repository is
 - *Thesis*: MICRO - Mars Interplanetary Mission and Cubesat Orbiter []()
 - *Notes*: Graduated *cum laude*. Semester abroad at *Georgia Tech*.
 
----
-
-### Work Experience :briefcase:
+## Work Experience :briefcase:
 
 - Internship at **ALTEC S.p.A.** (2017).
 Worked on the design of a tool for the analysis of reentry of space debris, solely based on Two Line Elements (TLE). 
 - Various **Teaching/Student Assistant** positions at TU Delft
 
----
-
-### Awards :tada:
+## Awards :tada:
 
 - Andre Kuipers Award (2016) for BSc group thesis. More information on the thesis is available [here](https://mfacchinelli.github.io/#projects).
 
-### Skills :thumbsup:
+## Skills :thumbsup:
 
-#### Programming Languages
+### Programming Languages
 
 These are the languages I have most experience with:
 
@@ -110,15 +97,3 @@ cd /Users/Michele/Desktop
 echo 'I started learning this language on my own, and for a few projects!' > how.txt
 ```
 - *MarkDown* :wink:
-
-## Projects
-
-### Master Thesis
-
----
-
-### Internship
-
----
-
-### Other
