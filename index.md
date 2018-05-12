@@ -1,8 +1,3 @@
----
-title: Michele Facchinelli
-description: A GitHub Portfolio
----
-
 # Welcome to Michele's Portfolio
 
 Hi, and welcome to my online portfolio. The purpose of this GitHub repository is to display some more details about myself, and some of the projects I have worked on.
