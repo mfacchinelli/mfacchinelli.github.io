@@ -7,5 +7,5 @@ In the sidebar you can find the links to the contents of this portfolio.
 ## Index
 
 - [Curriculum](https://mfacchinelli.github.io/curriculum.html)
-- [Projects](https://mfacchinelli.github.io/projects.html)
+- [Projects](https://mfacchinelli.github.io/experience.html)
 
