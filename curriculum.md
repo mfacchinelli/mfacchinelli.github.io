@@ -2,18 +2,18 @@
 
 ## Education :mortar_board:
 
-### Master of Science
+### Master of Science :rocket:
 
 - *University*: Delft University of Technology
-- *Subject*: Aerospace Engineering :rocket:
+- *Subject*: Aerospace Engineering
 - *Specialization*: Space Exploration
 - *Period*: 2016 - present
 - *Thesis*: **Aerobraking Guidance, Navigation and Control**
 
-### Bachelor of Science
+### Bachelor of Science :airplane:
 
 - *University*: Delft University of Technology
-- *Subject*: Aerospace Engineering :airplane:
+- *Subject*: Aerospace Engineering
 - *Period*: 2013 - 2016
 - *Thesis*: MICRO - Mars Interplanetary Mission and Cubesat Orbiter []()
 - *Notes*: Graduated *cum laude*. Semester abroad at *Georgia Tech*.
@@ -26,7 +26,7 @@ Worked on the design of a tool for the analysis of reentry of space debris, sole
 
 ## Awards :tada:
 
-- Andre Kuipers Award (2016) for BSc group thesis. More information on the thesis is available [here](https://mfacchinelli.github.io/#projects).
+- Andre Kuipers Award (2016) for BSc group thesis. More information on the thesis is available [here](https://mfacchinelli.github.io/experience.html/#bachelor-thesis).
 
 ## Skills :thumbsup:
 
@@ -34,7 +34,7 @@ Worked on the design of a tool for the analysis of reentry of space debris, sole
 
 These are the languages I have most experience with:
 
-- *MATLAB*: I have used MATLAB extensively, making use of many of its toolboxes (such as, Aerospace, Statistics, Mapping, Optimization, etc.). Examples of code I have written can be found in the [tleAnalysis](https://github.com/mfacchinelli/tleAnalysis) and [thesisCode](https://github.com/mfacchinelli/thesisCode) repositories on GitHub. More details on these projects are given in the [Projects](https://mfacchinelli.github.io/#projects) section. 
+- *MATLAB*: I have used MATLAB extensively, making use of many of its toolboxes (such as, Aerospace, Statistics, Mapping, Optimization, etc.). Examples of code I have written can be found in the [tleAnalysis](https://github.com/mfacchinelli/tleAnalysis) and [thesisCode](https://github.com/mfacchinelli/thesisCode) repositories on GitHub. More details on these projects are given in the [Projects](https://mfacchinelli.github.io/experience.html) section. 
 
 ~~~matlab
 % How I learned MATLAB
@@ -76,22 +76,24 @@ print("This one, on the other hand, I learned during my BSc!")
 
 Over the years, I have also picked up some other languages:
 
-- *HTML*
-<!--
-~~~html
-<!-- How I learned HTML -->
-<p> This one, I picked up in my free time! </p>
-~~~
--->
-
-- *AppleScript*: I have used AppleScript to automate some of the tasks that I carry out frequently on my laptop. In particular, being a lazy engineer, I created some shortcuts to open and close all the apps I need for my thesis :blush: 
-~~~applescript
-# How I learned AppleScriptset response to display dialog "I was trying to make my Mac experience more seamless!" buttons {"Lazy", "Awesome"} default button "Awesome"
-~~~
 - *UNIX*: I have started using UNIX to run simulations on the faculty servers, and after that to run simulation with the [SPARTA](http://sparta.sandia.gov) software. I have also used it via MATLAB and C++ with the `system` and `std::system` commands. 
+
 ~~~unix
 # How I learned UNIX
 cd /Users/Michele/Desktop
 echo 'I started learning this language on my own, and for a few projects!' > how.txt
 ~~~
+
+- *AppleScript*: I have used AppleScript to automate some of the tasks that I carry out frequently on my laptop. In particular, being a lazy engineer, I created some shortcuts to open and close all the apps I need for my thesis :blush: 
+
+~~~applescript
+# How I learned AppleScriptset response to display dialog "I was trying to make my Mac experience more seamless!" buttons {"Lazy", "Awesome"} default button "Awesome"
+~~~
+
+- *HTML*: I learned HTML in my free time.
+<!-- ~~~html -->
+<!-- How I learned HTML -->
+<!-- <p> This one, I picked up in my free time! </p> -->
+<!-- ~~~ -->
+
 - *MarkDown* :wink:
