@@ -2,17 +2,19 @@
 
 Hi, and welcome to my online portfolio. The purpose of this GitHub repository is to display some more details about myself, and some of the projects I have worked on.
 
-In the sidebar you can find the links to the contents of this portfolio. And in section #Index <!-- [Index]((https://mfacchinelli.github.io/#index) --> the full structure of the portfolio is shown. 
+In the sidebar you can find the links to the contents of this portfolio. And in section [Index]((https://mfacchinelli.github.io/#index) the full structure of the portfolio is shown. 
+
+*STILL IN PROGRESS*
 
 ## Index
 
 - [Curriculum](https://mfacchinelli.github.io/curriculum.html)
-	- [Education](https://mfacchinelli.github.io/curriculum.html/#education-mortar_board)
-	- [Work Experience](https://mfacchinelli.github.io/curriculum.html/#work-experience-briefcase)
-	- [Awards](https://mfacchinelli.github.io/curriculum.html/#awards-tada)
-	- [Skills](https://mfacchinelli.github.io/curriculum.html/#skills-thumbsup)
+	- Education
+	- Work Experience
+	- Awards
+	- Skills
 - [Projects](https://mfacchinelli.github.io/experience.html)
-	- [Master Thesis](https://mfacchinelli.github.io/experience.html/#master-thesis)
-	- [Bachelor Thesis](https://mfacchinelli.github.io/experience.html/#bachelor-thesis)
-	- [Internship](https://mfacchinelli.github.io/experience.html/#internship)
-	- [Other](https://mfacchinelli.github.io/experience.html/#other)
+	- Master Thesis
+	- Bachelor Thesis
+	- Internship
+	- Other
