@@ -93,7 +93,7 @@ Over the years, I have also picked up some other languages:
 - *HTML*: I learned HTML in my free time.
 
 	~~~html
-	How I learned HTML
+	<!-- How I learned HTML -->
 	<p> This one, I picked up in my free time! </p>
 	~~~
 
