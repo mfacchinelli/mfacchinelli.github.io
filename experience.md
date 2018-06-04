@@ -8,8 +8,8 @@ To simulate the maneuver and the GNC system, I have been using Tudat, or TU Delf
 
 Another software I have been using is SPARTA. This software (available at http://sparta.sandia.gov), is used in my thesis to compute the aerodynamic properties of the Mars Reconnaissance Orbiter (MRO) in rarefied flow conditions. 
 
-- Tudat: https://github.com/mfacchinelli/tudat
-- Thesis Code: https://github.com/mfacchinelli/thesisCode
+- Tudat: [mfacchinelli/tudat](https://github.com/mfacchinelli/tudat)
+- Thesis Code: [mfacchinelli/thesisCode](https://github.com/mfacchinelli/thesisCode)
 
 ## Bachelor Thesis
 
