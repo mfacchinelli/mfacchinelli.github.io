@@ -8,6 +8,8 @@ In the sidebar you can find the links to the contents of this portfolio. And in 
 
 ## Index
 
+In this portfolio, you will find the following elements:
+
 - [Curriculum](https://mfacchinelli.github.io/curriculum.html)
 	- Education
 	- Work Experience

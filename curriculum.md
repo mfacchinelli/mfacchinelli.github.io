@@ -7,15 +7,18 @@
 - *University*: Delft University of Technology
 - *Subject*: Aerospace Engineering
 - *Specialization*: Space Exploration
-- *Period*: 2016 - present
-- *Thesis*: **Aerobraking Guidance, Navigation and Control**
+- *Period*: 2016 - 2018
+- *GPA*: 8.8/10
+- *Thesis*: Aerobraking Navigation, Guidance and Control, available [here](https://drive.google.com/open?id=1UkoBR41aYavcj6nChAaK9IcKCSvATRPO)
+- *Notes*: Graduated *cum laude*.
 
 ### Bachelor of Science :airplane:
 
 - *University*: Delft University of Technology
 - *Subject*: Aerospace Engineering
 - *Period*: 2013 - 2016
-- *Thesis*: MICRO - Mars Interplanetary Mission and Cubesat Orbiter []()
+- *GPA*: 8.6/10
+- *Thesis*: MICRO - Mars Interplanetary Mission and Cubesat Orbiter, available [here](https://drive.google.com/open?id=0B19O2osc-Xeealpkc3U5YnB3akE)
 - *Notes*: Graduated *cum laude*. Semester abroad at *Georgia Tech*.
 
 ## Work Experience :briefcase:
@@ -87,7 +90,8 @@ Over the years, I have also picked up some other languages:
 - *AppleScript*: I have used AppleScript to automate some of the tasks that I carry out frequently on my laptop. In particular, being a lazy engineer, I created some shortcuts to open and close all the apps I need for my thesis :blush: 
 
 	~~~applescript
-	# How I learned AppleScript	set response to display dialog "I was trying to make my Mac experience more seamless!" buttons {"Lazy", "Awesome"} default button "Awesome"
+	# How I learned AppleScript
+	set response to display dialog "I was trying to make my Mac experience more seamless!" buttons {"Lazy", "Awesome"} default button "Awesome"
 	~~~
 
 - *HTML*: I learned HTML in my free time.
