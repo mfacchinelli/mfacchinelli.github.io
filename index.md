@@ -20,3 +20,4 @@ In this portfolio, you will find the following elements:
 	- Bachelor Thesis
 	- Internship
 	- Other
+- [Blog](https://mfacchinelli.github.io/blog.html)
