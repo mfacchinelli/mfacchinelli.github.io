@@ -1,23 +1,7 @@
 # Welcome to Michele's Portfolio
 
-Hi, and welcome to my online portfolio. The purpose of this GitHub repository is to display some more details about myself, and some of the projects I have worked on.
+Hi, and welcome to my online portfolio. This GitHub repository is a place I use to display some details about myself, some of the projects I have worked on, and to share some of my thoughts.
 
-In the sidebar you can find the links to the contents of this portfolio. And in section [Index](https://mfacchinelli.github.io/#index) the full structure of the portfolio is shown. 
+In the sidebar you can find the links to the contents of this portfolio. I think the titles are quite self-explanatory, so I won't spend time explaining what they contain.
 
-*STILL IN PROGRESS*
-
-## Index
-
-In this portfolio, you will find the following elements:
-
-- [Curriculum](https://mfacchinelli.github.io/curriculum.html)
-	- Education
-	- Work Experience
-	- Awards
-	- Skills
-- [Projects](https://mfacchinelli.github.io/experience.html)
-	- Master Thesis
-	- Bachelor Thesis
-	- Internship
-	- Other
-- [Blog](https://mfacchinelli.github.io/blog.html)
+*Work In Progress*
